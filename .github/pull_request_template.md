@@ -1,3 +1,5 @@
+[PR 가이드](https://confluence.medit.com/pages/viewpage.action?pageId=435620847) - PR 작성 이후 삭제바랍니다.
+
 ## 작업 사항
 작업 내용 및 변동 사항에 대해 설명합니다.
 
